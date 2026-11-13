@@ -31,3 +31,23 @@ All original mod creators retain credit for their respective work. A complete li
 ## Project Status
 
 HellFront is currently in development. The first public release will be available after installation and compatibility testing.
+
+## Additional Mods — Manual Installation Required
+
+Some mods included in HellFront | EAC Compatible cannot be shared automatically through Arsenal Mod Manager because they were not downloaded using its built-in Nexus Mods integration.
+
+These mods are part of the intended HellFront experience but will not be automatically included when importing the shared profile.
+
+Please download and install the following mods manually:
+
+1. **UNSC Sabre for Eagle 1**
+2. **Machine Gun Redux AIO**
+3. **Pelican-1 Reimagined**
+4. **Epic Orchestral Music Overhaul - sem extracao**
+5. **Budget Cuts and Burnout voice pack**
+
+After downloading these mods from their original authors, import them into Arsenal Mod Manager and configure them according to the HellFront setup.
+
+Important: The shared Arsenal profile does not contain these five mods or their files. They must be obtained separately.
+
+All credit belongs to the original mod creators. HellFront only provides a curated configuration of community-made modifications.

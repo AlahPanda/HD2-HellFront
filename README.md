@@ -41,10 +41,15 @@ These mods are part of the intended HellFront experience but will not be automat
 Please download and install the following mods manually:
 
 1. **UNSC Sabre for Eagle 1**
+[https://www.nexusmods.com/helldivers2/mods/3649](https://www.nexusmods.com/helldivers2/mods/3649)
 2. **Machine Gun Redux AIO**
+[https://www.nexusmods.com/helldivers2/mods/18723](https://www.nexusmods.com/helldivers2/mods/18723)
 3. **Pelican-1 Reimagined**
-4. **Epic Orchestral Music Overhaul - sem extracao**
+[https://www.nexusmods.com/helldivers2/mods/18807](https://www.nexusmods.com/helldivers2/mods/18807)
+4. **Epic Orchestral Music Overhaul**
+[https://www.nexusmods.com/helldivers2/mods/7635](https://www.nexusmods.com/helldivers2/mods/7635)
 5. **Budget Cuts and Burnout voice pack**
+[https://www.nexusmods.com/helldivers2/mods/11411?tab=description](https://www.nexusmods.com/helldivers2/mods/11411)
 
 After downloading these mods from their original authors, import them into Arsenal Mod Manager and configure them according to the HellFront setup.
 
